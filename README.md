@@ -50,4 +50,10 @@ Target-companies that worth it a try
 * [Safran](https://www.safran-group.com/careers/job-fields)
 
 * [Boeing](https://jobs.boeing.com/#career-areas)
+
 * [Embraer: Programa de Especialização em Software](https://embraer.com/br/pt/pes)
+
+  
+
+<img src = "assets/images/Sucess-definition.jpg">
+
