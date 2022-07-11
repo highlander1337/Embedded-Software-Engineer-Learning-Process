@@ -1,6 +1,6 @@
-![Inverter opAmp configuration](/assets/images/inverter-opamp-configuration.png)
+![Inverter opAmp configuration](assets/images/inverter-opamp-configuration.png)
 
-![Inverter opAmp configuration](/assets/images/non-inverter-opamp-configuration.png)
+![Non Inverter opAmp configuration](assets/images/non-inverter-opamp-configuration.png)
 
 ![difference opamp configuration](assets/images/difference-opamp-configuration.png)
 
