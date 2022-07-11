@@ -22,8 +22,15 @@ RoadMap
 - Interface Homem-Embarcado - 16 horas 
 - Projetos de sistemas embarcados I (fundamentos do arduino) - 16 horas
 - Projetos de sistemas embarcados II (fundamentos do raspberry pi) - 16 horas
-- Projeto Profissional (sistema de controle em aeronaves rádio pilotadas) - 40 horas
+- Projeto Profissional (sistema de controle dinâmico em aeronaves rádio pilotadas) - 40 horas
 
 Useful links
 
 * [Fornecedor de serviços de fabricação de PCB ](https://hitechcircuits.com/pt/)
+
+Target companies to work with
+
+* [Safran](https://www.safran-group.com/careers/job-fields)
+
+* [Boeing](https://jobs.boeing.com/#career-areas)
+* [Embraer: Programa de Especialização em Software](https://embraer.com/br/pt/pes)
