@@ -3,6 +3,9 @@ This is my journey to become an embedded software engineer all by myself. I've c
 
 RoadMap
 - Gerenciamento de projetos - 16 horas
+- Inglês básico - 16 horas
+- Inglês intermediário - 16 horas
+- Inglês avançado - 16 horas
 - Ciclo de vida de produtos - 16 horas 
 - Programação (nivelamento) - 16 horas 
 - Computer Aided Design (CAD) - 16 horas 
@@ -10,7 +13,9 @@ RoadMap
 - Analise de dados - 16 horas 
 - Escrita científica - 16 horas 
 - Eletrônica - 16 horas
-- Programação para sistemas embarcados (C/C++) - 16 horas 
+- Estrutura de dados - 16 horas
+- Probabilidade e estatística - 16 horas
+- Programação para sistemas embarcados (C/C++) - 16 horas
 - Arquiteturas avançadas de sistemas - 16 horas 
 - Instrumentação - 16 horas
 - Co-projeto de Hardware/Software - 16 horas
