@@ -1,4 +1,15 @@
 # Embedded-Software-Engineer-Learning-Process
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset = "utf-8">
+		<title></title>
+		<link rel="stylesheet" href="mdstyle.css"> 
+	</head>
+</html>
+<div class ="background-image">
+</div>
+
 This is my journey to become an embedded software engineer all by myself. I've created this repository to share projects that will lead me throughout the following roadmap: 
 
 RoadMap
@@ -53,7 +64,7 @@ Target-companies that worth it a try
 
 * [Embraer: Programa de Especialização em Software](https://embraer.com/br/pt/pes)
 
-  ![GitHub Logo](assets/images/Sucess-definition.jpg)
+  <img src="assets/images/Sucess-definition.jpg">
 
   
 
