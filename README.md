@@ -45,7 +45,7 @@ Useful books
 * [Sistemas Operacionais de Tempo Real e sua Aplicação em Sistemas Embarcados | Amazon.com.br](https://www.amazon.com.br/Sistemas-Operacionais-Tempo-Aplicação-Embarcados/dp/8521213964/ref=asc_df_8521213964/?tag=googleshopp00-20&linkCode=df0&hvadid=379725601116&hvpos=&hvnetw=g&hvrand=11596952033379078894&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1032048&hvtargid=pla-834126609754&psc=1)
 * [Engenharia de Software na Prática | Amazon.com.br](https://www.amazon.com.br/Engenharia-Software-Prática-Hélio-Engholm/dp/8575222171/ref=asc_df_8575222171/?tag=googleshopp00-20&linkCode=df0&hvadid=379765802390&hvpos=&hvnetw=g&hvrand=11596952033379078894&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1032048&hvtargid=pla-396486665730&psc=1)
 
-Target companies to work with
+Target-companies that worth it a try
 
 * [Safran](https://www.safran-group.com/careers/job-fields)
 
