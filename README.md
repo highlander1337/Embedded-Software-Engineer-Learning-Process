@@ -1,7 +1,7 @@
 # Embedded-Software-Engineer-Learning-Process
 This is my journey to become an embedded software engineer all by myself. This contains core projects that will lead throughout the following roadmap: 
 
-RoadMap Learning
+RoadMap
 - Gerenciamento de projetos - 16 horas
 - Ciclo de vida de produtos - 16 horas 
 - Programação (nivelamento) - 16 horas 
