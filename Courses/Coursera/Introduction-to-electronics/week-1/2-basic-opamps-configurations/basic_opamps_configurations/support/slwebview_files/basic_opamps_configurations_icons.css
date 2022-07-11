@@ -1,0 +1,9 @@
+.basic_opamps_configurations0,
+.basic_opamps_configurations1,
+.basic_opamps_configurations2,
+.basic_opamps_configurations3 { background-image: url('basic_opamps_configurations_icons.png'); width: 16px; height: 16px; }
+
+.basic_opamps_configurations0 { background-position: -0px; }
+.basic_opamps_configurations1 { background-position: -16px; }
+.basic_opamps_configurations2 { background-position: -32px; }
+.basic_opamps_configurations3 { background-position: -48px; }

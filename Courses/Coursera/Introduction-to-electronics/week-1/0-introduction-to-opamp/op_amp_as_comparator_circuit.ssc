@@ -1,0 +1,48 @@
+component op_amp_as_comparator_circuit
+% Op-Amp
+% Models an ideal Operational Amplifier (Op-Amp). If the voltage at the
+% positive pin is denoted by Vp, and the voltage at the negative pin by Vm,
+% then an ideal op-amp behavior is defined by Vp = Vm. In other words, the
+% op-amp gain is assumed to be infinite. By implication, the current from
+% the Vp to the Vm terminal is zero 
+
+% Copyright 2005-2013 The MathWorks, Inc.
+
+nodes
+    p = foundation.electrical.electrical; % +:
+    n = foundation.electrical.electrical; % -:
+    out = foundation.electrical.electrical; % :
+    vsp = foundation.electrical.electrical;% Vs+:
+    vsn = foundation.electrical.electrical;% Vs-:
+end
+
+annotations
+    p : Side = left;
+    n : Side = left;
+    out : Side = right;
+    vsp : Side = top;
+    vsn : Side = bottom;
+end
+
+variables(Access=private)
+    i1   = { 0, 'A' }; % Input current
+    v1   = { 0, 'V' }; % Input voltage
+end
+
+variables
+    outI = {0, 'A'}; % Current output
+end
+
+branches
+    i1   : p.i   -> n.i;
+    outI : out.i -> *;
+end
+
+equations
+    v1 == p.v - n.v;
+    %v1 == 0;
+    out.v == if p.v> 0, vsp.v else vsn.v end
+    i1 == 0;
+end
+
+end

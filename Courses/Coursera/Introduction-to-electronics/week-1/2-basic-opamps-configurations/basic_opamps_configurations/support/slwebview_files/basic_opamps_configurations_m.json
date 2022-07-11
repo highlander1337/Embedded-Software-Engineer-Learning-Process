@@ -1,0 +1,39 @@
+[
+ {
+  "sid":"basic_opamps_configurations",
+  "className":"Simulink.BlockDiagram",
+  "icon":"basic_opamps_configurations0",
+  "name":"basic_opamps_configurations",
+  "label":"basic_opamps_configurations",
+  "parent":"",
+  "inspector":{
+   "params":[
+    "ModelVersion",
+    "LastModifiedDate",
+    "LibraryLinkDisplay",
+    "ModelBrowserVisibility",
+    "Dirty",
+    "Description"
+   ],
+   "values":[
+    "1.6",
+    "Sat Jul 09 19:59:54 2022",
+    "disabled",
+    "off",
+    "off",
+    ""
+   ],
+   "tabs":[
+   ],
+   "tabs_idx":[
+   ]
+  },
+  "viewer":{
+   "jshandler":"webview/handlers/ElementHandler"
+  },
+  "obj_viewer":[
+  ],
+  "finder":[
+  ]
+ }
+]
