@@ -53,7 +53,7 @@ Target-companies that worth it a try
 
 * [Embraer: Programa de Especialização em Software](https://embraer.com/br/pt/pes)
 
-  
+  ![GitHub Logo](assets/images/Sucess-definition.jpg)
 
-<img src = "assets/images/Sucess-definition.jpg">
+  
 
