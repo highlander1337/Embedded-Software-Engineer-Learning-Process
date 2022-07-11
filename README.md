@@ -32,6 +32,7 @@ RoadMap
 Useful links
 
 * [Fornecedor de serviços de fabricação de PCB ](https://hitechcircuits.com/pt/)
+* [Especialização em Engenharia de Sistemas Embarcados | Fundação Hermínio Ometto](http://www.fho.edu.br/posgraduacao/cursos/detalhes.php?id=3&tipo=29&codcurso=2461)
 
 Target companies to work with
 
