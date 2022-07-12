@@ -37,6 +37,7 @@ Useful links
 * [Linguagem C, o Curso Definitivo - Wagner Rambo | Hotmart](https://hotmart.com/pt-br/marketplace/produtos/linguagem-c-o-curso-definitivo/N48026554Y?sck=HOTMART_SPACE)
 * [WR Cursos e Planos de Assinatura | Espaço Hotmart](https://space.hotmart.com/pt-BR/wrkits/products)
 * [Modern C++ in Embedded Systems - YouTube](https://www.youtube.com/watch?v=1l2g2dAobXA&ab_channel=CodingTech)
+* [How To Become An Embedded Software Engineer? - YouTube](https://www.youtube.com/watch?v=HFmGk4oufj8&ab_channel=GreidiAjalik)
 
 Useful books
 
