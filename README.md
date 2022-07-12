@@ -36,6 +36,7 @@ Useful links
 * [MATLAB and Simulink for Embedded Systems](https://www.mathworks.com/solutions/embedded-systems.html)
 * [Linguagem C, o Curso Definitivo - Wagner Rambo | Hotmart](https://hotmart.com/pt-br/marketplace/produtos/linguagem-c-o-curso-definitivo/N48026554Y?sck=HOTMART_SPACE)
 * [WR Cursos e Planos de Assinatura | Espaço Hotmart](https://space.hotmart.com/pt-BR/wrkits/products)
+* [Modern C++ in Embedded Systems - YouTube](https://www.youtube.com/watch?v=1l2g2dAobXA&ab_channel=CodingTech)
 
 Useful books
 
