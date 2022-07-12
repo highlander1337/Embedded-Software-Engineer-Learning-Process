@@ -38,6 +38,8 @@ Useful links
 * [WR Cursos e Planos de Assinatura | Espaço Hotmart](https://space.hotmart.com/pt-BR/wrkits/products)
 * [Modern C++ in Embedded Systems - YouTube](https://www.youtube.com/watch?v=1l2g2dAobXA&ab_channel=CodingTech)
 * [How To Become An Embedded Software Engineer? - YouTube](https://www.youtube.com/watch?v=HFmGk4oufj8&ab_channel=GreidiAjalik)
+* [C Programming Tutorial for Beginners - YouTube](https://www.youtube.com/watch?v=KJgsSFOSQv0&t=0s&ab_channel=freeCodeCamp.org)
+* [Data Structures - Full Course Using C and C++ - YouTube](https://www.youtube.com/watch?v=B31LgI4Y4DQ&t=0s&ab_channel=freeCodeCamp.org)
 
 Useful books
 
