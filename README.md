@@ -1,4 +1,4 @@
-# Embedded-Software-Engineer-Learning-Process
+# Embedded Software Engineer Learning Process
 This is my journey to become an embedded software engineer all by myself. I've created this repository to share projects that will lead me throughout the following roadmap: 
 
 RoadMap
