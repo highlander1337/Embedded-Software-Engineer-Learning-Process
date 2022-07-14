@@ -2,32 +2,32 @@
 This is my journey to become an embedded software engineer all by myself. I've created this repository to share projects that will lead me throughout the following roadmap: 
 
 RoadMap
-- Gerenciamento de projetos - 16 horas
-- Inglês básico - 16 horas
-- Inglês intermediário - 16 horas
-- Inglês avançado - 16 horas
-- Ciclo de vida de produtos - 16 horas 
-- Programação (nivelamento) - 16 horas 
-- Computer Aided Design (CAD) - 16 horas 
-- Computer Aided Manufacturing (CAM com foco em PCB) - 16 horas 
-- Analise de dados - 16 horas 
-- Escrita científica - 16 horas 
-- Eletrônica - 16 horas
-- Estrutura de dados - 16 horas
-- Probabilidade e estatística - 16 horas
-- Programação para sistemas embarcados (C/C++) - 16 horas
-- Arquiteturas avançadas de sistemas - 16 horas 
-- Instrumentação - 16 horas
-- Co-projeto de Hardware/Software - 16 horas
-- Processamento digital de sinais - 16 horas
-- Prototipação avançada de sistemas com FPGA - 16 horas
-- Redes industriais aplicadas - 16 horas
-- Redes de sensores sem fio - 16 horas 
-- Redes em sistemas embarcados - 16 horas
-- Interface Homem-Embarcado - 16 horas 
-- Projetos de sistemas embarcados I (fundamentos do arduino) - 16 horas
-- Projetos de sistemas embarcados II (fundamentos do raspberry pi) - 16 horas
-- Projeto Profissional (sistema de controle dinâmico em aeronaves rádio pilotadas) - 40 horas
+- Gerenciamento de projetos
+- Inglês básico
+- Inglês intermediário
+- Inglês avançado
+- Ciclo de vida de produtos
+- Programação (nivelamento)
+- Computer Aided Design (CAD)
+- Computer Aided Manufacturing (CAM com foco em PCB)
+- Analise de dados
+- Escrita científica
+- Eletrônica
+- Estrutura de dados
+- Probabilidade e estatística
+- Programação para sistemas embarcados (C/C++)
+- Arquiteturas avançadas de sistemas
+- Instrumentação
+- Co-projeto de Hardware/Software
+- Processamento digital de sinais
+- Prototipação avançada de sistemas com FPGA
+- Redes industriais aplicadas
+- Redes de sensores sem fio
+- Redes em sistemas embarcados
+- Interface Homem-Embarcado
+- Projetos de sistemas embarcados I (fundamentos do arduino)
+- Projetos de sistemas embarcados II (fundamentos do raspberry pi)
+- Projeto Profissional (sistema de controle dinâmico em aeronaves rádio pilotadas)
 
 Useful links
 
