@@ -1,6 +1,6 @@
 # Moddeling software systems using UML
 
-## What is the [UML]([UML Tutorial (tutorialspoint.com)](https://www.tutorialspoint.com/uml/index.htm)) ?
+## What is the [UML](https://www.tutorialspoint.com/uml/index.htm) ?
 
 A software system can be modeled as a collection of collaborating objects. An UML structure is comprised by
 
