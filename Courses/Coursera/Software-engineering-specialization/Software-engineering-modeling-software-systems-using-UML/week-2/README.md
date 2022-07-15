@@ -45,19 +45,19 @@ A software system can be modeled as a collection of collaborating objects. An UM
 
 ### Requirement level
 
-* [Construct a requirement model]([Requirements Toolbox Documentation (mathworks.com)](https://www.mathworks.com/help/slrequirements/))
+* [Construct a requirement model](https://www.mathworks.com/help/slrequirements/)
   * Do not consider any aspects of the implementation domain of objects
   * Focus on identifying objects (concepts) in the application domain
 
 ### Analysis and design level
 
-* [Construct a solution model]([Simscape Documentation (mathworks.com)](https://www.mathworks.com/help/physmod/simscape/))
+* [Construct a solution model](https://www.mathworks.com/help/physmod/simscape/)
   * Consider interfaces of objects (but no internal aspects)
   * Focus on how objects interact in the solution
 
 ### Implementation level
 
-* [Implement the solution model]([C Code Generation - MATLAB & Simulink (mathworks.com)](https://www.mathworks.com/help/dsp/c-code-generation.html?s_tid=CRUX_lftnav))
+* [Implement the solution model](https://www.mathworks.com/help/dsp/c-code-generation.html?s_tid=CRUX_lftnav)
   * Consider all details of objects (external and internal)
   * Focus on how to code objects
 
