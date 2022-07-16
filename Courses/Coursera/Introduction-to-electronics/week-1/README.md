@@ -25,6 +25,8 @@ $$
 * Resistor
 
   * Series
+
+    
     $$
     R = R_1+R_2+...+R_n
     $$
