@@ -127,6 +127,8 @@ $$
 ## Transfer functions
 
 * Two-port network case
+
+  
   $$
   V_i(t)=A_{in}cos(\omega t+\theta_{in})
   $$
