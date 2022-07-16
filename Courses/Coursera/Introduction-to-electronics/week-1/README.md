@@ -30,6 +30,8 @@ $$
     $$
 
   * Parallel
+
+    
     $$
     R=\frac{1}{\frac{1}{R_1} + \frac{1}{R_2}+...+ \frac{1}{R_n}}
     $$
@@ -37,11 +39,15 @@ $$
 * Inductors
 
   * Series
+
+    
     $$
     L = L_1 + L_2 +...+L_n
     $$
 
   * Parallel
+
+    
     $$
     L=\frac{1}{\frac{1}{L_1} + \frac{1}{L_2}+...+ \frac{1}{L_n}}
     $$
@@ -49,11 +55,15 @@ $$
 * Capacitors
 
   * Series
+
+    
     $$
     C=\frac{1}{\frac{1}{C_1} + \frac{1}{C_2}+...+ \frac{1}{C_n}}
     $$
 
   * Parallel
+
+    
     $$
     C=C_1+C_2+...+C_n
     $$
@@ -76,6 +86,8 @@ $$
 ## Impedance
 
 * Resistor voltage and current behavior
+
+  
   $$
   Z_r=R
   $$
@@ -88,6 +100,8 @@ $$
   * Therefore, frequency invariant
 
     Remember
+
+    
     $$
     f(Hz)=\frac{1}{T}
     $$
@@ -97,6 +111,8 @@ $$
     $$
 
 * Capacitor voltage and current behavior
+
+  
   $$
   Z_C=\frac{1}{j\omega C}
   $$
@@ -105,6 +121,8 @@ $$
   * Current leads voltage (comes before)
 
 * Inductor voltage and current behavior
+
+  
   $$
   Z_L=j\omega L
   $$
