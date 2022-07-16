@@ -265,3 +265,6 @@ $$
 
 <img src="assets/images/rc-circuit.jpg" alt="RC circuit with sinusoidal input" style="zoom:50%;" />
 
+Using matlab and simulink parameter estimator, we find R =  228.5176 and C = 3.4629e-05.
+
+<img src="assets/images/transfer-function-as-processing-signal-using-a-function-of-time.jpg" />
