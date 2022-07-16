@@ -160,6 +160,8 @@ $$
 * In this case the input is sinusoidal and in the steady state the output is also sinusoidal
 
 * Also, has the same frequency but different amplitude and phase
+
+  
   $$
   V_i=A_{in}\angle{\theta_{in}}
   $$
@@ -169,6 +171,8 @@ $$
   $$
 
 * Transfer function is a relationship between output and input
+
+  
   $$
   H(\omega)V_i=V_o
   $$
@@ -178,6 +182,8 @@ $$
   $$
 
 * If we take the magnitude for both sides
+
+  
   $$
   A_{out}=|{H(\omega)}|A_{in}
   $$
@@ -215,11 +221,15 @@ $$
 $$
 
 * That's it, the magnitude is given by
+
+  
   $$
   |H(\omega)|=|\frac{1}{a + bj}|=\frac{1}{\sqrt{a^2 + b^2}}
   $$
 
 * In the bode diagram, the magnitude has units of decibels (dB), and has the following relationship
+
+  
   $$
   H(dB)=20log(|H(\omega)|)
   $$
@@ -227,6 +237,8 @@ $$
 * also, omega is in the log scale
 
 * The angle vs omega is given by
+
+  
   $$
   \angle \frac{1}{a+bj} =-atan(\frac{b}{a})=-tan(RC\omega)
   $$
@@ -236,10 +248,14 @@ $$
 ## Circuit response study case
 
 Given the following input voltage
+
+
 $$
 V_i=cos(50t)+cos(800t)
 $$
 find R and C for the following circuit, such as
+
+
 $$
 V_o=0.95cos(50t -20^\circ) + 0.13cos(80t -85^\circ)
 $$
