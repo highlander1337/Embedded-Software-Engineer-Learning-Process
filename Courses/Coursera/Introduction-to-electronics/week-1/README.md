@@ -257,9 +257,11 @@ $$
 
 find R and C for the following circuit, such as
 
+<img src="assets/images/rc-circuit.jpg" alt="RC circuit with sinusoidal input" style="zoom:50%;" />
+
 
 $$
 V_o=0.95cos(50t -20^\circ) + 0.13cos(80t -85^\circ)
 $$
-<img src="assets/images/rc-circuit.jpg" alt="RC circuit with sinusoidal input" style="zoom:50%;" />
+
 
