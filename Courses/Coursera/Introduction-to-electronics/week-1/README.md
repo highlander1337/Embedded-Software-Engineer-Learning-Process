@@ -253,6 +253,8 @@ Given the following input voltage
 $$
 V_i=cos(50t)+cos(800t)
 $$
+
+
 find R and C for the following circuit, such as
 
 
