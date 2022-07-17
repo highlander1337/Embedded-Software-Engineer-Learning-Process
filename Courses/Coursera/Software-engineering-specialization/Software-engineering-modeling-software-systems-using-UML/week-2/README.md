@@ -57,7 +57,7 @@ A software system can be modeled as a collection of collaborating objects. An UM
 
 ### Implementation level
 
-* [Implement the solution model](https://www.mathworks.com/help/dsp/c-code-generation.html?s_tid=CRUX_lftnav)
+* [Implement the solution model](https://www.mathworks.com/help/ecoder/index.html?searchHighlight=C Code Generation for embedded systems&s_tid=srchtitle_C Code Generation for embedded systems_1)
   * Consider all details of objects (external and internal)
   * Focus on how to code objects
 
