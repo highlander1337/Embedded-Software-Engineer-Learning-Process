@@ -262,9 +262,20 @@ $$
 V_o=0.95cos(50t -20^\circ) + 0.13cos(80t -85^\circ)
 $$
 
-
 <img src="assets/images/rc-circuit.jpg" alt="RC circuit with sinusoidal input" style="zoom:50%;" />
 
 Using matlab and simulink parameter estimator, we find R =  228.5176 and C = 3.4629e-05.
 
 <img src="assets/images/transfer-function-as-processing-signal-using-a-function-of-time.jpg" />
+
+The given bode diagram in linear scale is founded to be almost the needed values, numerical computations requires more analysis to reach the needed values of magnitude 0.95 at 50 rad/s and 0.13 at 800 rad/s and phase angle -20° at 50 rad/s and -85° at 800 rad/s.
+
+<img src="assets/images/bode-diagram-from-estimated-transfer-function-values.jpg" />
+
+## BODE diagram
+
+A bode diagram is actually given in log scales units, as showing as follow, where
+$$
+|H(\omega)|(dB)=20log(|H(\omega)|)
+$$
+<img src="assets/images/bode-diagram-from-estimated-transfer-function-values-in-log.jpg" />
