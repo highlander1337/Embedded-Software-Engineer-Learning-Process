@@ -278,7 +278,7 @@ A bode diagram is actually given in log scales units, as showing as follow, wher
 
 
 $$
-|H(\omega)|(dB)=20log(|H(\omega)|)
+|H(\omega)|(dB)=20log_{10}(|H(\omega)|)
 $$
 
 
