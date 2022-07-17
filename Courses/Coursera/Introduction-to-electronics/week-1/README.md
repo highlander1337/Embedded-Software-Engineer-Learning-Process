@@ -280,4 +280,6 @@ A bode diagram is actually given in log scales units, as showing as follow, wher
 $$
 |H(\omega)|(dB)=20log(|H(\omega)|)
 $$
+
+
 <img src="assets/images/bode-diagram-from-estimated-transfer-function-values-in-log.jpg" />
