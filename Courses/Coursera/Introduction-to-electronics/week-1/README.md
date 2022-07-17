@@ -275,6 +275,8 @@ The given bode diagram in linear scale is founded to be almost the needed values
 ## BODE diagram
 
 A bode diagram is actually given in log scales units, as showing as follow, where
+
+
 $$
 |H(\omega)|(dB)=20log(|H(\omega)|)
 $$
