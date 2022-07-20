@@ -78,5 +78,7 @@ The analysis is the same as before, only the signals of the currents and voltage
 
   The analysis is the same as before, only the signals of the currents and voltages has changed.
 
+  ## Introduction to circuits logic
+  
   
 

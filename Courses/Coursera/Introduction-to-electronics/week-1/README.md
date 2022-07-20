@@ -281,5 +281,4 @@ $$
 |H(\omega)|(dB)=20log_{10}(|H(\omega)|)
 $$
 
-
 <img src="assets/images/bode-diagram-from-estimated-transfer-function-values-in-log.jpg" />
