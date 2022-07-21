@@ -295,6 +295,8 @@ In the RC circuit, the corner frequency is given by
 $$
 \omega_0=\frac{1}{RC}
 $$
+**
+
 ***Attenuation rate***. Beyond the corner frequency the sensitivity of a first-order system rolls off at the rate of −20 dB per decade of frequency. Another way to look at it is that the response drops a factor of 10 for every 10× increase in frequency. 
 
 ***Phase shift***. At the corner frequency, the system will delay a [sinusoidal input](https://www.sciencedirect.com/topics/engineering/sinusoidal-input) signal by 45°. As one increases the signal frequency, this phase delay increases asymptotically to 90°.
@@ -311,6 +313,8 @@ In this case,
 $$
 \omega_0=\frac{1}{\sqrt{LC}}
 $$
+
+
 and at high frequency, the attenuation rate is equal to -40 dB per decade of frequency.
 
 <img src="assets/images/transfer-function-magnitude-phase-second-order-example.jpg" />
@@ -323,6 +327,8 @@ In this case,
 $$
 \omega_0=\frac{1}{\sqrt{LC}}
 $$
+
+
 but as R gets decreased we've got a resonant peak at a resonant frequency, at that frequency the output amplitude is greater than the input amplitude in resonant region. And as R gets smaller, the change in phase becomes even sharper in terms of phase transition.
 
 <img src="assets/images/transfer-function-magnitude-phase-second-order-example-underdamped.jpg" />
