@@ -295,7 +295,7 @@ In the RC circuit, the corner frequency is given by
 $$
 \omega_0=\frac{1}{RC}
 $$
-**
+
 
 ***Attenuation rate***. Beyond the corner frequency the sensitivity of a first-order system rolls off at the rate of −20 dB per decade of frequency. Another way to look at it is that the response drops a factor of 10 for every 10× increase in frequency. 
 
