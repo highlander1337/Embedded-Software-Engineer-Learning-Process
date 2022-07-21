@@ -282,3 +282,49 @@ $$
 $$
 
 <img src="assets/images/bode-diagram-from-estimated-transfer-function-values-in-log.jpg" />
+
+### Bode Plot First-Order characteristics
+
+<img src="assets/images/bode-diagram-from-estimated-transfer-function-values-in-log-clean.jpg" />
+
+[***Corner frequency***](https://www.sciencedirect.com/topics/engineering/corner-frequency), w0, often called the −3 dB point. At this frequency the value of system gain or sensitivity is only 0.707 of its value at DC (zero frequency).
+
+In the RC circuit, the corner frequency is given by
+$$
+\omega_0=\frac{1}{RC}
+$$
+***Attenuation rate***. Beyond the corner frequency the sensitivity of a first-order system rolls off at the rate of −20 dB per decade of frequency. Another way to look at it is that the response drops a factor of 10 for every 10× increase in frequency. 
+
+***Phase shift***. At the corner frequency, the system will delay a [sinusoidal input](https://www.sciencedirect.com/topics/engineering/sinusoidal-input) signal by 45°. As one increases the signal frequency, this phase delay increases asymptotically to 90°.
+
+While measurements such as the corner frequency describe a system's response to sinusoidal stimuli, they also provide some insight into how a device behaves in response to other stimuli. One common example is the system's response to an input in the form of an abrupt step, usually called the *step response.* The time that a first-order system needs to settle to within 37% of its final value (called the system *time constant,* represented by τ) is given by 1/(2πw0).
+
+### Bode Plot Second-Order characteristics
+
+#### Overdamped
+
+In this case,
+$$
+\omega_0=\frac{1}{\sqrt{LC}}
+$$
+and at high frequency, the attenuation rate is equal to -40 dB per decade of frequency.
+
+<img src="assets/images/transfer-function-magnitude-phase-second-order-example.jpg" />
+
+#### Underdamped
+
+In this case,
+$$
+\omega_0=\frac{1}{\sqrt{LC}}
+$$
+but as R gets decreased we've got a resonant peak at a resonant frequency, at that frequency the output amplitude is greater than the input amplitude in resonant region. And as R gets smaller, the change in phase becomes even sharper in terms of phase transition.
+
+<img src="assets/images/transfer-function-magnitude-phase-second-order-example-underdamped.jpg" />
+
+### Summary
+
+* A frequency response is a plot of the transfer function versus frequency, in particularly we are looking for the magnitude and the angle
+
+* The frequency response can be used to determine the steady-state sinusoidal response of a circuit at different frequencies
+
+  The whole point of the transfer function and its frequency response is to understand how the circuit processes signals of different frequencies. Does it attenuate frequencies in certain ranges? Or does it amplify signals? Or make them larger? Like that last case with the resonant peak we had the output greater than the input. If we take a look at the transfer function and plot it versus frequency, we can understand what's going on. Is it amplifying or is it attenuating? And if so, in what frequency range?
