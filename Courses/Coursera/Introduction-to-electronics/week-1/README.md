@@ -290,6 +290,8 @@ $$
 [***Corner frequency***](https://www.sciencedirect.com/topics/engineering/corner-frequency), w0, often called the −3 dB point. At this frequency the value of system gain or sensitivity is only 0.707 of its value at DC (zero frequency).
 
 In the RC circuit, the corner frequency is given by
+
+
 $$
 \omega_0=\frac{1}{RC}
 $$
@@ -304,6 +306,8 @@ While measurements such as the corner frequency describe a system's response to 
 #### Overdamped
 
 In this case,
+
+
 $$
 \omega_0=\frac{1}{\sqrt{LC}}
 $$
@@ -314,6 +318,8 @@ and at high frequency, the attenuation rate is equal to -40 dB per decade of fre
 #### Underdamped
 
 In this case,
+
+
 $$
 \omega_0=\frac{1}{\sqrt{LC}}
 $$
