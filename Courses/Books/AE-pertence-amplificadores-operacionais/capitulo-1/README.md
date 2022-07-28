@@ -52,4 +52,3 @@ An OpAmp it is a DC multistage amplifier with differential inputs who's characte
 
 * what is a DC multistage amplifier ?
 
-  
