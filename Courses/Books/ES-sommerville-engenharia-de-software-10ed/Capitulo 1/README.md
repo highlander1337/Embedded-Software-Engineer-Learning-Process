@@ -78,7 +78,7 @@ A distinção fundamental entre esses tipos de software está na especificação
       * inteligível
       * útil
       * compatível com outros sistemas
-    * [Dependabilidade](https://edisciplinas.usp.br/pluginfile.php/31639/mod_resource/content/2/Cap-11_Confiança e Protecao.pdf) e segurança da informação
+    * [Dependabilidade](https://edisciplinas.usp.br/pluginfile.php/31639/mod_resource/content/2/Cap-11%Confiança%e%Protecao.pdf) e segurança da informação
       * confiabilidade
       * segurança da informação
       * segurança pessoal e econômica
