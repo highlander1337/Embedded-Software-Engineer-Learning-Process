@@ -149,4 +149,4 @@ Links úteis:
   * Engenheiros de software devem aderir a uma aprendizagem contínua durante toda a vida no que diz respeito à prática de sua profissão e promover uma abordagem ética para a prática da mesma
     * Buscar sabedoria é sabedoria, por sua vez, aquele que busca conhecer sem noções preconcebidas, tende a ter mais experiências e, consequentemente, é capaz de discernir com certo nível de acurácia o que é dever e direito nas situações do dia-a-dia do desenvolvimento de software.
 * Como a ética e moral afetam no desenvolvimento de software que lidam com a privacidade das pessoas ?
-  * [Lei geral de proteção de dado](https://www.migalhas.com.br/depeso/311142/etica--privacidade-e-novas-tecnologias--o-impacto-da-lei-de-protecao-de-dados-na-sociedade)
+  * [Lei geral de proteção de dados](https://www.migalhas.com.br/depeso/311142/etica--privacidade-e-novas-tecnologias--o-impacto-da-lei-de-protecao-de-dados-na-sociedade)
